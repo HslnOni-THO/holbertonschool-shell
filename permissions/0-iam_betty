@@ -1,2 +1,3 @@
 #!/bin/bash
-wc -c
+chgrp group2
+foo
