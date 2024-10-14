@@ -1,3 +1,2 @@
 #!/bin/bash
-chgrp group2
-foo
+su betty
